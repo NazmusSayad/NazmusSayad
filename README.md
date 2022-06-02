@@ -41,10 +41,12 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="./generated/overview.svg#gh-dark-mode-only" />
-    <img align="center" src="./generated/languages.svg#gh-dark-mode-only" />
+    <img align="center" src="https://github.com/NazmusSayad/github--statistics--/raw/master/generated/overview.svg#gh-dark-mode-only" />
+    <img align="center" src="https://github.com/NazmusSayad/github--statistics--/raw/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
 </p>
+
+
 
 
 <br />
@@ -58,7 +60,7 @@
 <p align="center">
   <a href="#">
     <img
-      align="center" src="./github-metrics.svg" />
+      align="center" src="https://github.com/NazmusSayad/github--statistics--/raw/master/github-metrics.svg" />
   </a>
 </p>
 
