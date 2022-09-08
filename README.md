@@ -41,12 +41,15 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github.com/NazmusSayad/github.statistics--/raw/master/generated/overview.svg#gh-dark-mode-only" />
-    <img align="center" src="https://github.com/NazmusSayad/github.statistics--/raw/master/generated/languages.svg#gh-dark-mode-only" />
+    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/overview.svg" />
   </a>
 </p>
 
-
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/languages.svg" />
+  </a>
+</p>
 
 
 <br />
