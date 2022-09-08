@@ -41,13 +41,13 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/overview.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/overviewDarkMode.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/languages.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/languagesDarkMode.svg" />
   </a>
 </p>
 
