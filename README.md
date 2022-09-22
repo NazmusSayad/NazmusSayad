@@ -8,7 +8,109 @@
 - 🌐 Website: **https://github.com/NazmusSayad**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
-<br/><hr/><br/>
+<br/>
+<h3 align="left">Stack:</h3>
+<p align="left">
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Stack" width="40" height="40"/>
+</a>
+
+</p>
+
+<br/><br/><hr/><br/>
 
 <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----

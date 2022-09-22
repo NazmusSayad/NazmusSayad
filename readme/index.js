@@ -1,8 +1,9 @@
 console.clear()
 const { writeFileSync } = require('fs')
 const { getMarkup, splitter } = require('./utils')
-const [intro, overview, metrics, footer] = getMarkup(
+const [intro, stack, overview, metrics, footer] = getMarkup(
   require('./partials/intro'),
+  require('./partials/stack'),
   require('./partials/overview'),
   require('./partials/metrics'),
   require('./partials/footer')
@@ -10,7 +11,9 @@ const [intro, overview, metrics, footer] = getMarkup(
 
 const markupArray = [
   intro,
-  splitter.br.hr.br.nl(2),
+  splitter.br.nl(1),
+  stack,
+  splitter.br.br.hr.br.nl(2),
   overview,
   splitter.br.br.h2.br.br.nl(2),
   metrics,
