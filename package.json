@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "readme": "node readme",
+    "dev:readme": "nodemon readme"
+  }
+}

@@ -1,26 +1,20 @@
 <div>
   <a href="#">
-    <img width="100%" src="./banner.svg"/>
+    <img width="100%" src="/readme/assests/header-banner.svg"/>
   </a>
 </div>
 
-- 📧 Mail: **247sayad@gmail.com** 
-- 🌐 Website: **https://github.com/NazmusSayad** 
+- 📧 Mail: **247sayad@gmail.com**
+- 🌐 Website: **https://github.com/NazmusSayad**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
-
-<br />
-<hr />
-<br />
-
+<br/><hr/><br/>
 
 <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
 </div>
 
-
 <br />
-
 
 <div align="center">
    <a href="#">
@@ -28,9 +22,7 @@
    </a>
 </div>
 
-
 <br />
-
 
 <p align="center">
   <a href="#">
@@ -51,14 +43,11 @@
   </a>
 </p>
 
+<br/><br/>
 
-<br />
-<br />
+##
 
-#  
-<br />
-<br />
-
+<br/><br/>
 
 <p align="center">
   <a href="#">
@@ -67,14 +56,13 @@
   </a>
 </p>
 
-
 <br />
 <br />
 
-##  
-<br />
-<br />
+##
 
+<br />
+<br />
 
 <p align="center">
   <a href="#">
@@ -83,11 +71,10 @@
 </p>
 
 
-<br />
 
-#  
-<br />
+#
 
+<br/>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/NazmusSayad">
@@ -95,9 +82,7 @@
   </a>
 </p>
 
-
 <br />
-
 
 <div>
   <a href="#">
@@ -105,9 +90,7 @@
   </a>
 </div>
 
-
 <br />
-
 
 <p align="center">
   <a href="#">
@@ -117,6 +100,6 @@
 
 <div>
   <a href="#">
-    <img width="100%" src="./footer-banner.svg" />
+    <img width="100%" src="/readme/assests/footer-banner.svg" />
   </a>
 </div>
