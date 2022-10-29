@@ -139,7 +139,7 @@
 <p align="center">
   <a href="#">
     <img
-      align="center" src="https://github.com/NazmusSayad/github.statistics--/raw/master/github-metrics.svg" />
+      align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/master/github-metrics.svg" />
   </a>
 </p>
 
