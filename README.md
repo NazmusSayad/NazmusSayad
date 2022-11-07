@@ -5,7 +5,7 @@
 </div>
 
 - 📧 Mail: **247sayad@gmail.com**
-- 🌐 Website: **https://github.com/NazmusSayad**
+- 🌐 Website: **https://sayad.vercel.app**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
 <br/>
