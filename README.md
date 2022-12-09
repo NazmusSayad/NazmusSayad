@@ -5,7 +5,7 @@
 </div>
 
 - 📧 Mail: **247sayad@gmail.com**
-- 🌐 Website: **https://sayad.vercel.app**
+- 🌐 Website: **I don't have enough time to create a portfolio**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
 <br/>
