@@ -35,13 +35,43 @@ module.exports = {
     [
       'manual-node-env',
       'https://www.npmjs.com/package/manual-node-env',
-      'Stop wasting time to use external third party packages to set NODE_ENV, do that from your code',
+      'Set NODE_ENV directly from your code or CLI',
     ],
 
     [
       'node-ls-files',
       'https://www.npmjs.com/package/node-ls-files',
       'Get all the files inside a dir as an array',
+    ],
+
+    [
+      'use-active-state',
+      'https://www.npmjs.com/package/use-active-state',
+      'React hook for managing active element in the browser, may be helpful while working with dropdown...',
+    ],
+
+    [
+      'vite-vscode',
+      'https://www.npmjs.com/package/vite-vscode',
+      'This automatically creates some vscode config from vite config',
+    ],
+
+    [
+      'dom-theme',
+      'https://www.npmjs.com/package/dom-theme',
+      'Theme management basic tool',
+    ],
+
+    [
+      'react-ts',
+      'https://github.com/NazmusSayad/react-ts',
+      'A boilerplate for React with typescript',
+    ],
+
+    [
+      'node-ts',
+      'https://github.com/NazmusSayad/node-ts',
+      'A boilerplate for Node, MongoDB & Express with typescript',
     ],
 
     [
@@ -66,6 +96,24 @@ module.exports = {
       'Tic Tac Toe',
       'https://tictactoe-basic.vercel.app',
       'One of my early project',
+    ],
+
+    [
+      'react-js',
+      'https://github.com/NazmusSayad/react-redux-pwa-boilerplate-vite',
+      'A boilerplate for React using vite',
+    ],
+
+    [
+      'react-js',
+      'https://github.com/NazmusSayad/react-redux-pwa-boilerplate-webpack',
+      'A boilerplate for React using webpack',
+    ],
+
+    [
+      'node-js',
+      'https://github.com/NazmusSayad/node-express-mongoose-boilerplate',
+      'A boilerplate for Node, MongoDB & Express',
     ]
   ),
 }
