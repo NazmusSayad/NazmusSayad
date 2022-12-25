@@ -37,8 +37,7 @@ const stack = [
 ]
 
 const stackImages = stack
-  .map(imgUrl => introStackImageTemplate.replace('{IMGURL}', imgUrl))
+  .map((imgUrl) => introStackImageTemplate.replace('{IMGURL}', imgUrl))
   .join('')
 
-exports.path = __dirname + '/stack.md'
-exports.placeHolders = { stackImages }
+module.exports = { stackImages }

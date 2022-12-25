@@ -22,6 +22,6 @@
 
 <div>
   <a href="#">
-    <img width="100%" src="{ASSESTS}/footer-banner.svg" />
+    <img width="100%" src="{ASSETS}/footer-banner.svg" />
   </a>
 </div>

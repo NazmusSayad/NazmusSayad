@@ -1,24 +1,20 @@
 console.clear()
 const { writeFileSync } = require('fs')
-const { getMarkup, splitter } = require('./utils')
-const [intro, stack, overview, metrics, footer] = getMarkup(
-  require('./partials/intro'),
-  require('./partials/stack'),
-  require('./partials/overview'),
-  require('./partials/metrics'),
-  require('./partials/footer')
-)
+const { splitter } = require('./utils')
+const data = require('./generate')()
 
 const markupArray = [
-  intro,
-  splitter.br.nl(1),
-  stack,
+  data.intro,
+  splitter.br.nl(2),
+  data.stack,
   splitter.br.br.hr.br.nl(2),
-  overview,
-  splitter.br.br.h2.br.br.nl(2),
-  metrics,
+  data.overview,
+  splitter.br.br.nl(2),
+  data.projects,
+  splitter.br.br.h2.br.nl(2),
+  data.metrics,
   splitter.h1.br.nl(2),
-  footer,
+  data.footer,
 ]
 
 writeFileSync('README.md', markupArray.join(''))
