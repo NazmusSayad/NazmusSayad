@@ -3,7 +3,7 @@ const getList = (...items) => {
     .map(([label, url, description]) => {
       return `- **[${label}](${url})** - ${description}`
     })
-    .join('\n\n')
+    .join('\n')
 }
 
 module.exports = {
