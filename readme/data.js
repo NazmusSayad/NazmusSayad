@@ -1,6 +1,6 @@
 module.exports = {
   intro: {
-    mail: 'sayad@duck.com',
+    mail: '247sayad@gmail.com',
     website: "I don't have enough time to create a portfolio",
   },
 
