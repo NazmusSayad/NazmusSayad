@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 📧 Mail: **sayad@duck.com**
+- 📧 Mail: **247sayad@gmail.com**
 - 🌐 Website: **I don't have enough time to create a portfolio**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
