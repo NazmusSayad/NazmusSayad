@@ -12,13 +12,9 @@
 
 ## Stack:
 
-<img src="https://raw.githubusercontent.com/Dev-SalamSheikh/Dev-SalamSheikh/master/assets/js.gif"/>
+<img src="/assets/stack-js.gif"/>
 
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
+<p><a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
@@ -96,7 +92,6 @@
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Stack" width="40" height="40"/>
 </a>
-
 </p>
 
 <br/><br/><hr/><br/>

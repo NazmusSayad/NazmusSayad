@@ -1,7 +1,5 @@
 ## Stack:
 
-<img src="https://raw.githubusercontent.com/Dev-SalamSheikh/Dev-SalamSheikh/master/assets/js.gif"/>
+<img src="{ASSETS}/stack-js.gif"/>
 
-<p align="left">
-{STACKIMAGES}
-</p>
+<p>{STACKIMAGES}</p>

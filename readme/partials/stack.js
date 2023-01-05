@@ -4,7 +4,6 @@ const introStackImageTemplate = require('fs').readFileSync(
 )
 
 const stack = [
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg',
