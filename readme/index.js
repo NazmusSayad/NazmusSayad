@@ -17,4 +17,4 @@ const markupArray = [
   data.footer,
 ]
 
-writeFileSync('README.md', markupArray.join(''))
+writeFileSync('README.md', markupArray.join('').trim())

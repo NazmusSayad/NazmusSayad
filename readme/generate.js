@@ -1,24 +1,29 @@
 const fs = require('fs')
 const path = require('path')
 const data = require('./data')
+const componentsPath = path.join(__dirname, './components')
 
 module.exports = () => {
   const newData = {}
+  const files = fs.readdirSync(componentsPath)
 
-  for (let name in data) {
-    const filePlaceholders = data[name]
-    const filePath = path.join(__dirname, './components/' + name + '.md')
+  files.forEach((file) => {
+    const key = file.replace(/\.md$/, '')
+    const placeHolders = data[key]
+    const filePath = path.join(componentsPath, '/', file)
     let fileData = fs.readFileSync(filePath, 'utf-8')
 
-    for (let key in filePlaceholders) {
-      fileData = fileData.replaceAll(
-        '{' + key.toUpperCase() + '}',
-        filePlaceholders[key]
-      )
+    if (placeHolders) {
+      for (let key in placeHolders) {
+        fileData = fileData.replaceAll(
+          '{' + key.toUpperCase() + '}',
+          placeHolders[key]
+        )
+      }
     }
 
-    newData[name] = fileData.replaceAll('{ASSETS}', '/assets')
-  }
+    newData[key] = fileData.replaceAll('{ASSETS}', '/assets')
+  })
 
   return newData
 }
