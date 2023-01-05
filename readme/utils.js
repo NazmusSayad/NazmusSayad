@@ -5,11 +5,14 @@ class Splitter extends String {
   get h2() {
     return new Splitter(this.trimEnd() + '\n\n##\n\n')
   }
+  get h3() {
+    return new Splitter(this.trimEnd() + '\n\n##\n\n')
+  }
   get hr() {
-    return new Splitter(this.trimEnd() + '\n\n<hr/>\n\n')
+    return new Splitter(this.trimEnd() + '\n\n<hr />\n\n')
   }
   get br() {
-    return new Splitter(this.trimEnd() + '\n\n<br/>\n\n')
+    return new Splitter(this.trimEnd() + '\n\n<br />\n\n')
   }
 }
 

@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
 
-<br/>
+<br />
 
 ## Stack:
 
@@ -96,13 +96,13 @@
 </p>
 
 
-<br/>
+<br />
 
-<br/>
+<br />
 
-<hr/>
+<hr />
 
-<br/>
+<br />
 
 <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
@@ -138,9 +138,9 @@
 </p>
 
 
-<br/>
+<br />
 
-<br/>
+<br />
 
 ## Projects:
 
@@ -164,13 +164,13 @@
 - **[node-js](https://github.com/NazmusSayad/node-express-mongoose-boilerplate)** - A boilerplate for Node, MongoDB & Express
 
 
-<br/>
+<br />
 
-<br/>
+<br />
 
 ##
 
-<br/>
+<br />
 
 <p align="center">
   <a href="#">
@@ -196,7 +196,7 @@
 
 #
 
-<br/>
+<br />
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/NazmusSayad">
