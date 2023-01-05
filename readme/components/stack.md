@@ -1,5 +1,5 @@
 ## Stack:
 
-<img src="{ASSETS}/stack-js.gif"/>
+<img src="{$$}/stack-js.gif"/>
 
 <p>{STACKIMAGES}</p>

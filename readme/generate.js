@@ -22,7 +22,7 @@ module.exports = () => {
       }
     }
 
-    newData[key] = fileData.replaceAll('{ASSETS}', '/assets')
+    newData[key] = fileData.replaceAll('{$$}', '/assets')
   })
 
   return newData

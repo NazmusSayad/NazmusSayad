@@ -1,6 +1,6 @@
 <div>
   <a href="#">
-    <img width="100%" src="{ASSETS}/header-banner.svg"/>
+    <img width="100%" src="{$$}/header-banner.svg"/>
   </a>
 </div>
 
