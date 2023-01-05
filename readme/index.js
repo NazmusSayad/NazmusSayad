@@ -5,15 +5,15 @@ const data = require('./generate')()
 
 const markupArray = [
   data.intro,
-  splitter.br.nl(2),
+  splitter.br,
   data.stack,
-  splitter.br.br.hr.br.nl(2),
+  splitter.br.br.hr.br,
   data.overview,
-  splitter.br.br.nl(2),
+  splitter.br.br,
   data.projects,
-  splitter.br.br.h2.br.nl(2),
+  splitter.br.br.h2.br,
   data.metrics,
-  splitter.h1.br.nl(2),
+  splitter.h1.br,
   data.footer,
 ]
 

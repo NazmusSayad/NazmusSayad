@@ -1,21 +1,16 @@
-const fs = require('fs')
-
 class Splitter extends String {
-  nl(count = 1) {
-    return new Splitter(this + '\n'.repeat(count))
-  }
   get h1() {
-    return new Splitter(this + '\n\n#\n\n')
+    return new Splitter(this.trimEnd() + '\n\n#\n\n')
   }
   get h2() {
-    return new Splitter(this + '\n\n##\n\n')
+    return new Splitter(this.trimEnd() + '\n\n##\n\n')
   }
   get hr() {
-    return new Splitter(this + '<hr/>')
+    return new Splitter(this.trimEnd() + '\n\n<hr/>\n\n')
   }
   get br() {
-    return new Splitter(this + '<br/>')
+    return new Splitter(this.trimEnd() + '\n\n<br/>\n\n')
   }
 }
 
-exports.splitter = new Splitter('\n')
+exports.splitter = new Splitter('')

@@ -8,6 +8,7 @@
 - 🌐 Website: **I don't have enough time to create a portfolio**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
+
 <br/>
 
 ## Stack:
@@ -94,7 +95,14 @@
 </a>
 </p>
 
-<br/><br/><hr/><br/>
+
+<br/>
+
+<br/>
+
+<hr/>
+
+<br/>
 
 <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
@@ -129,7 +137,10 @@
   </a>
 </p>
 
-<br/><br/>
+
+<br/>
+
+<br/>
 
 ## Projects:
 
@@ -152,7 +163,10 @@
 - **[react-js](https://github.com/NazmusSayad/react-redux-pwa-boilerplate-webpack)** - A boilerplate for React using webpack
 - **[node-js](https://github.com/NazmusSayad/node-express-mongoose-boilerplate)** - A boilerplate for Node, MongoDB & Express
 
-<br/><br/>
+
+<br/>
+
+<br/>
 
 ##
 
@@ -178,7 +192,6 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NazmusSayad&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
   </a>
 </p>
-
 
 
 #
