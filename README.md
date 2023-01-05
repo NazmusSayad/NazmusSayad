@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 📧 Mail: **sayad@duck.com**
+- 📧 Mail: **sayad.echo@gmail.com**
 - 🌐 Website: **I don't have enough time to create a portfolio**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
@@ -122,13 +122,13 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/overviewDarkMode.svg" />
+    <img align="center" src="https://github.com/NazmusSayad/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/languagesDarkMode.svg" />
+    <img align="center" src="https://github.com/NazmusSayad/Git-Stats/raw/master/generated_images/languagesDarkMode.svg" />
   </a>
 </p>
 
