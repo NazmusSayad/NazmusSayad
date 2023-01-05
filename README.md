@@ -12,6 +12,8 @@
 
 ## Stack:
 
+<img src="https://raw.githubusercontent.com/Dev-SalamSheikh/Dev-SalamSheikh/master/assets/js.gif"/>
+
 <p align="left">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Stack" width="40" height="40"/>
@@ -181,6 +183,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NazmusSayad&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
   </a>
 </p>
+
+
 
 #
 
