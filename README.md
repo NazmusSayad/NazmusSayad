@@ -34,6 +34,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
@@ -50,6 +53,12 @@
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://windicss.org/assets/logo.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Stack" width="40" height="40"/>
@@ -86,6 +95,9 @@
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Stack" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Stack" width="40" height="40"/>
