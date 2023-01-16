@@ -1,8 +1,3 @@
-const introStackImageTemplate = require('fs').readFileSync(
-  __dirname + '/stack-image.md',
-  'utf-8'
-)
-
 const stack = [
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg',
@@ -21,14 +16,16 @@ const stack = [
   'https://windicss.org/assets/logo.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg',
 
+  'https://www.svgrepo.com/show/374167/vite.svg',
+  'https://www.svgrepo.com/show/374051/rollup.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg',
 
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg',
+  'https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg',
 
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg',
@@ -40,7 +37,12 @@ const stack = [
 ]
 
 const stackImages = stack
-  .map((imgUrl) => introStackImageTemplate.replace('{IMGURL}', imgUrl))
+  .map(
+    (imgUrl) =>
+      `<a href="#" target="_blank" rel="noreferrer">
+  <img src="${imgUrl}" alt="Stack" width="40" height="40"/>
+</a>`
+  )
   .join('')
 
 module.exports = { stackImages }

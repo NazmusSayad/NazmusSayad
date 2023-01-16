@@ -33,6 +33,30 @@ module.exports = {
     ],
 
     [
+      'tailwind-variant-group',
+      'https://www.npmjs.com/package/tailwind-variant-group',
+      'Enables classes inside a variant block',
+    ],
+
+    [
+      'Todoi',
+      'https://todoi.vercel.app',
+      'Simple task management application for personal and teams',
+    ],
+
+    [
+      'Messagen (not completed)',
+      'https://messagen.vercel.app',
+      'Full featured chat applicaion',
+    ],
+
+    [
+      'manual-node-env',
+      'https://www.npmjs.com/package/manual-node-env',
+      'Set NODE_ENV directly from your code or CLI',
+    ],
+
+    [
       'manual-node-env',
       'https://www.npmjs.com/package/manual-node-env',
       'Set NODE_ENV directly from your code or CLI',
@@ -47,7 +71,7 @@ module.exports = {
     [
       'use-active-state',
       'https://www.npmjs.com/package/use-active-state',
-      'React hook for managing active element in the browser, may be helpful while working with dropdown...',
+      'React hook for managing active element in the browser.',
     ],
 
     [
