@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 📧 Mail: **sayad.echo@gmail.com**
+- 📧 Mail: **sayad.web@gmail.com**
 - 🌐 Website: **I don't have enough time to create a portfolio**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
@@ -137,7 +137,6 @@
 - **[tailwind-variant-group](https://www.npmjs.com/package/tailwind-variant-group)** - Enables classes inside a variant block
 - **[Todoi](https://todoi.vercel.app)** - Simple task management application for personal and teams
 - **[Messagen (not completed)](https://messagen.vercel.app)** - Full featured chat applicaion
-- **[manual-node-env](https://www.npmjs.com/package/manual-node-env)** - Set NODE_ENV directly from your code or CLI
 - **[manual-node-env](https://www.npmjs.com/package/manual-node-env)** - Set NODE_ENV directly from your code or CLI
 - **[node-ls-files](https://www.npmjs.com/package/node-ls-files)** - Get all the files inside a dir as an array
 - **[use-active-state](https://www.npmjs.com/package/use-active-state)** - React hook for managing active element in the browser.

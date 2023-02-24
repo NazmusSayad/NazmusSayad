@@ -57,12 +57,6 @@ module.exports = {
     ],
 
     [
-      'manual-node-env',
-      'https://www.npmjs.com/package/manual-node-env',
-      'Set NODE_ENV directly from your code or CLI',
-    ],
-
-    [
       'node-ls-files',
       'https://www.npmjs.com/package/node-ls-files',
       'Get all the files inside a dir as an array',
