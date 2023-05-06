@@ -98,7 +98,7 @@
 
 <div align="center">
    <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=NazmusSayad&style=flat-square" alt="NazmusSayad" />
+    <img src="https://visitcount.itsvg.in/api?id=NazmusSayad&label=Profile%20Views&color=12&icon=3&pretty=true" alt="NazmusSayad" />
    </a>
 </div>
 
