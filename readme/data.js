@@ -7,6 +7,7 @@ module.exports = {
   stack: require('./partials/stack'),
 
   overview: {
+    // https://komarev.com/ghpvc/?username=NazmusSayad&style=flat-square
     profileViews:
       'https://visitcount.itsvg.in/api?id=NazmusSayad&label=Profile%20Views&color=12&icon=3&pretty=true',
     streakStats:
