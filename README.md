@@ -5,7 +5,7 @@
 </div>
 
 - 📧 Mail: **mail@sayad.dev**
-- 🌐 Website: **nazmusayad.com**
+- 🌐 Website: **https://nazmusayad.com**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
 
