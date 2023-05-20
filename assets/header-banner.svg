@@ -1,0 +1,72 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index: 1; position: relative"
+  width="854"
+  height="290"
+  viewBox="0 0 854 290"
+>
+  <style>
+    .text {
+      font-size: 40px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+    .desc {
+      font-size: 25px;
+      font-weight: 500;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+  </style>
+  <g transform="translate(427, 145) scale(1, 1) translate(-427, -145)">
+    <path d="" fill="#161B22" opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 0L 0 210Q 213.5 250 427 220T 854 245L 854 0 Z;M0 0L 0 235Q 213.5 250 427 230T 854 220L 854 0 Z;M0 0L 0 255Q 213.5 225 427 255T 854 220L 854 0 Z;M0 0L 0 210Q 213.5 250 427 220T 854 245L 854 0 Z"
+      ></animate>
+    </path>
+    <path d="" fill="#161B22" opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="M0 0L 0 225Q 213.5 270 427 240T 854 250L 854 0 Z;M0 0L 0 240Q 213.5 210 427 210T 854 230L 854 0 Z;M0 0L 0 235Q 213.5 215 427 240T 854 255L 854 0 Z;M0 0L 0 225Q 213.5 270 427 240T 854 250L 854 0 Z"
+      ></animate>
+    </path>
+  </g>
+
+  <text
+    text-anchor="middle"
+    alignment-baseline="middle"
+    x="50%"
+    y="30%"
+    class="text"
+    style="fill: #c9d1d9"
+    stroke="#none"
+    stroke-width="1"
+  >
+    Hi, I am Nazmus Sayad
+  </text>
+  <text
+    text-anchor="middle"
+    alignment-baseline="middle"
+    x="50%"
+    y="50%"
+    class="desc"
+    style="fill: #c9d1d9"
+  >
+    a little fullStack web developer.
+  </text>
+</svg>
