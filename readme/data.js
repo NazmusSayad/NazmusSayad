@@ -1,7 +1,7 @@
 module.exports = {
   intro: {
     mail: 'mail@sayad.dev',
-    website: "nazmusayad.com",
+    website: "https://nazmussayad.com",
   },
 
   stack: require('./partials/stack'),
