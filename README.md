@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 📧 Mail: **mail@sayad.dev**
+- 📧 Mail: **me@sayad.dev**
 - 🌐 Website: **https://nazmussayad.com**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
