@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<br />
+
 - 📧 Mail: **me@sayad.dev**
 - 🌐 Website: **https://nazmussayad.com**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
