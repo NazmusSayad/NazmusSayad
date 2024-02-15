@@ -9,14 +9,32 @@ const getList = (...items) => {
 module.exports = {
   projectList: getList(
     [
-      'npm-ez',
-      'https://www.npmjs.com/package/npm-ez',
+      'npmize',
+      'https://www.npmjs.com/package/npmize',
       'A tool to create npm packages easily',
     ],
 
     [
-      'use-react-api',
-      'https://www.npmjs.com/package/use-react-api',
+      'noarg',
+      'https://www.npmjs.com/package/noarg',
+      'A argument parser for nodejs, simple and easy to use',
+    ],
+
+    [
+      'netserv',
+      'https://www.npmjs.com/package/netserv',
+      'Serve your files over the local network',
+    ],
+
+    [
+      'rype',
+      'https://www.npmjs.com/package/rype',
+      'A type checking library for javascript, perfectly typed',
+    ],
+
+    [
+      'react-net-kit',
+      'https://www.npmjs.com/package/react-net-kit',
       'Make usages of fetch/http easier with the help of axios',
     ],
 
@@ -39,7 +57,7 @@ module.exports = {
     ],
 
     [
-      'Todoi',
+      'Todoi (not completed)',
       'https://todoi.vercel.app',
       'Simple task management application for personal and teams',
     ],
@@ -51,14 +69,14 @@ module.exports = {
     ],
 
     [
-      'manual-node-env',
-      'https://www.npmjs.com/package/manual-node-env',
+      'cli-node-env',
+      'https://www.npmjs.com/package/cli-node-env',
       'Set NODE_ENV directly from your code or CLI',
     ],
 
     [
-      'node-ls-files',
-      'https://www.npmjs.com/package/node-ls-files',
+      'lskit',
+      'https://www.npmjs.com/package/lskit',
       'Get all the files inside a dir as an array',
     ],
 
@@ -114,24 +132,6 @@ module.exports = {
       'Tic Tac Toe',
       'https://tictactoe-basic.vercel.app',
       'One of my early project',
-    ],
-
-    [
-      'react-js',
-      'https://github.com/NazmusSayad/react-redux-pwa-boilerplate-vite',
-      'A boilerplate for React using vite',
-    ],
-
-    [
-      'react-js',
-      'https://github.com/NazmusSayad/react-redux-pwa-boilerplate-webpack',
-      'A boilerplate for React using webpack',
-    ],
-
-    [
-      'node-js',
-      'https://github.com/NazmusSayad/node-express-mongoose-boilerplate',
-      'A boilerplate for Node, MongoDB & Express',
     ]
   ),
 }
