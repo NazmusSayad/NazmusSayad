@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "node readme",
-    "dev": "node --watch readme"
+    "build": "node ./readme",
+    "dev": "node --watch ./readme"
   }
 }
