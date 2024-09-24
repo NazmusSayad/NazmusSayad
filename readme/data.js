@@ -1,7 +1,7 @@
 module.exports = {
   intro: {
     mail: 'me@sayad.dev',
-    website: "https://nazmussayad.com",
+    website: 'https://nazmussayad.com',
   },
 
   stack: require('./partials/stack'),
@@ -23,8 +23,6 @@ module.exports = {
   metrics: {
     githubMetrics:
       'https://github.com/NazmusSayad/Git-Stats/raw/master/github-metrics.svg',
-    activityGraph:
-      'https://github-readme-activity-graph.cyclic.app/graph?username=NazmusSayad&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true',
   },
 
   footer: {

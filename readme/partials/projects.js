@@ -69,48 +69,6 @@ module.exports = {
     ],
 
     [
-      'cli-node-env',
-      'https://www.npmjs.com/package/cli-node-env',
-      'Set NODE_ENV directly from your code or CLI',
-    ],
-
-    [
-      'lskit',
-      'https://www.npmjs.com/package/lskit',
-      'Get all the files inside a dir as an array',
-    ],
-
-    [
-      'use-active-state',
-      'https://www.npmjs.com/package/use-active-state',
-      'React hook for managing active element in the browser.',
-    ],
-
-    [
-      'vite-vscode',
-      'https://www.npmjs.com/package/vite-vscode',
-      'This automatically creates some vscode config from vite config',
-    ],
-
-    [
-      'dom-theme',
-      'https://www.npmjs.com/package/dom-theme',
-      'Theme management basic tool',
-    ],
-
-    [
-      'react-ts',
-      'https://github.com/NazmusSayad/react-ts',
-      'A boilerplate for React with typescript',
-    ],
-
-    [
-      'node-ts',
-      'https://github.com/NazmusSayad/node-ts',
-      'A boilerplate for Node, MongoDB & Express with typescript',
-    ],
-
-    [
       'vite-pwa',
       'https://www.npmjs.com/package/vite-pwa',
       'A vite plugin to create PWA apps easily',

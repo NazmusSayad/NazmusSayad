@@ -7,14 +7,3 @@
 
 <br />
 <br />
-
-##
-
-<br />
-<br />
-
-<p align="center">
-  <a href="#">
-    <img src="{ACTIVITYGRAPH}" />
-  </a>
-</p>

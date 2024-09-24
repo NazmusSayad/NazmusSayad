@@ -142,13 +142,6 @@
 - **[tailwind-variant-group](https://www.npmjs.com/package/tailwind-variant-group)** - Enables classes inside a variant block
 - **[Todoi (not completed)](https://todoi.vercel.app)** - Simple task management application for personal and teams
 - **[Messagen (not completed)](https://messagen.vercel.app)** - Full featured chat applicaion
-- **[cli-node-env](https://www.npmjs.com/package/cli-node-env)** - Set NODE_ENV directly from your code or CLI
-- **[lskit](https://www.npmjs.com/package/lskit)** - Get all the files inside a dir as an array
-- **[use-active-state](https://www.npmjs.com/package/use-active-state)** - React hook for managing active element in the browser.
-- **[vite-vscode](https://www.npmjs.com/package/vite-vscode)** - This automatically creates some vscode config from vite config
-- **[dom-theme](https://www.npmjs.com/package/dom-theme)** - Theme management basic tool
-- **[react-ts](https://github.com/NazmusSayad/react-ts)** - A boilerplate for React with typescript
-- **[node-ts](https://github.com/NazmusSayad/node-ts)** - A boilerplate for Node, MongoDB & Express with typescript
 - **[vite-pwa](https://www.npmjs.com/package/vite-pwa)** - A vite plugin to create PWA apps easily
 - **[Salah Time](https://namaz.vercel.app)** - Get the accurate time for salah
 - **[Mini Crypt](https://mini-crypt.vercel.app)** - Toy hashing algorithm to hash your message
@@ -172,17 +165,6 @@
 
 <br />
 <br />
-
-##
-
-<br />
-<br />
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NazmusSayad&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-  </a>
-</p>
 
 
 #
