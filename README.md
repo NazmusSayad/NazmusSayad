@@ -176,25 +176,3 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="NazmusSayad" />
   </a>
 </p>
-
-<br />
-
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
-
-<br />
-
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/mikyll/mikyll/output/github-contribution-grid-snake.svg" />
-  </a>
-</p>
-
-<div>
-  <a href="#">
-    <img width="100%" src="/assets/footer-banner.svg" />
-  </a>
-</div>
