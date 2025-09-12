@@ -157,7 +157,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/NazmusSayad">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="300" alt="NazmusSayad" />
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="256" alt="NazmusSayad" />
   </a>
 </p>
 
