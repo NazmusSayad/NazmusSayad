@@ -6,7 +6,7 @@
 
 <br />
 
-- 📧 Mail: **me@sayad.dev**
+- 📧 Mail: **sayadenv@gmail.com**
 - 🌐 Website: **https://nazmussayad.com**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
@@ -147,12 +147,28 @@
 - **[Mini Crypt](https://mini-crypt.vercel.app)** - Toy hashing algorithm to hash your message
 - **[Tic Tac Toe](https://tictactoe-basic.vercel.app)** - One of my early project
 
+
+<br />
+
+<br />
+
+##
+
+<br />
+
+<p align="center">
+  <a href="#">
+    <img
+      align="center" src="https://github.com/NazmusSayad/Git-Stats/raw/master/github-metrics.svg" />
+  </a>
+</p>
+
 <br />
 <br />
+
 
 #
 
-<br />
 <br />
 
 <p align="center">

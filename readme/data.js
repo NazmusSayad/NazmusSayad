@@ -1,6 +1,6 @@
 module.exports = {
   intro: {
-    mail: 'me@sayad.dev',
+    mail: 'sayadenv@gmail.com',
     website: 'https://nazmussayad.com',
   },
 
