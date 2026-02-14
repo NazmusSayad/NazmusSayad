@@ -9,87 +9,104 @@ const getList = (...items) => {
 module.exports = {
   projectList: getList(
     [
-      'npmize',
-      'https://www.npmjs.com/package/npmize',
-      'A tool to create npm packages easily',
+      'Maileditor',
+      'https://maileditor.net',
+      'Web application to edit your emails',
     ],
-
     [
-      'noarg',
-      'https://www.npmjs.com/package/noarg',
-      'A argument parser for nodejs, simple and easy to use',
+      'UiGraph',
+      'https://uigraph.app',
+      'Visual diagrams and system mapping tool',
     ],
-
     [
-      'netserv',
-      'https://www.npmjs.com/package/netserv',
-      'Serve your files over the local network',
+      'OiPer',
+      'https://www.oiper.com',
+      'Email builder with reusable modules and configurable presets',
     ],
-
-    [
-      'rype',
-      'https://www.npmjs.com/package/rype',
-      'A type checking library for javascript, perfectly typed',
-    ],
-
-    [
-      'react-net-kit',
-      'https://www.npmjs.com/package/react-net-kit',
-      'Make usages of fetch/http easier with the help of axios',
-    ],
-
-    [
-      'code-info',
-      'https://www.npmjs.com/package/code-info',
-      'A cli tool scan your code and get basic details',
-    ],
-
-    [
-      'req-error',
-      'https://www.npmjs.com/package/req-error',
-      'Express tool for large applications',
-    ],
-
-    [
-      'tailwind-variant-group',
-      'https://www.npmjs.com/package/tailwind-variant-group',
-      'Enables classes inside a variant block',
-    ],
-
-    [
-      'Todoi (not completed)',
-      'https://todoi.vercel.app',
-      'Simple task management application for personal and teams',
-    ],
-
-    [
-      'Messagen (not completed)',
-      'https://messagen.vercel.app',
-      'Full featured chat applicaion',
-    ],
-
-    [
-      'vite-pwa',
-      'https://www.npmjs.com/package/vite-pwa',
-      'A vite plugin to create PWA apps easily',
-    ],
-
     [
       'Salah Time',
       'https://namaz.vercel.app',
       'Get the accurate time for salah',
     ],
-
+    [
+      'Todoi',
+      'https://todoi.vercel.app',
+      'Task management application for personal and teams',
+    ],
     [
       'Mini Crypt',
-      'https://mini-crypt.vercel.app',
+      'https://mini-crypt.vercel.app/baby',
       'Toy hashing algorithm to hash your message',
     ],
-
     [
-      'Tic Tac Toe',
-      'https://tictactoe-basic.vercel.app',
-      'One of my early project',
+      'Ai Tic Tac Toe',
+      'https://ai-tictactoe.vercel.app',
+      'Tic tac toe with AI opponent',
+    ],
+    [
+      'npmize',
+      'https://www.npmjs.com/package/npmize',
+      'Create npm packages with ease',
+    ],
+    [
+      'noarg',
+      'https://www.npmjs.com/package/noarg',
+      'Parse your arg with excellent type support',
+    ],
+    [
+      'netserv',
+      'https://www.npmjs.com/package/netserv',
+      'Serve your files over the local network',
+    ],
+    [
+      'tailwind-variant-group',
+      'https://www.npmjs.com/package/tailwind-variant-group',
+      'Use tailwind css like never before',
+    ],
+    [
+      'code-info',
+      'https://www.npmjs.com/package/code-info',
+      'A cli tool scan your code and get basic details',
+    ],
+    [
+      'daily-code',
+      'https://www.npmjs.com/package/daily-code',
+      'Reuse casual utilities',
+    ],
+    [
+      'uni-run',
+      'https://www.npmjs.com/package/uni-run',
+      'Run all kind of code',
+    ],
+    [
+      'one-time-jwt',
+      'https://www.npmjs.com/package/one-time-jwt',
+      'One-time use JWT tokens',
+    ],
+    [
+      'css-wrapper',
+      'https://wrapper.sayad.dev',
+      'CSS utility wrapper. Visual css wrapper generator',
+    ],
+    [
+      'auto-fold',
+      'https://marketplace.visualstudio.com/items?itemName=NazmusSayad.auto-fold',
+      'VS Code extension for auto folding',
+    ],
+    [
+      'chrome-tab-mute',
+      'https://chromewebstore.google.com/detail/jookegifmgjobinhjncmbjamaeldmabm',
+      'Chrome extension to mute browser tabs',
+    ],
+    [
+      'Wakapi',
+      'https://wakapi.dev',
+      'Time tracking for programmers (contributor)',
+    ],
+    [
+      'rype',
+      'https://www.npmjs.com/package/rype',
+      'Runtime type check in JS (deprecated)',
     ]
   ),
 }
