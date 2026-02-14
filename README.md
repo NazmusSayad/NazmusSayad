@@ -22,9 +22,9 @@
 </a><a href="#" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Stack" width="40" height="40"/>
+</a><a href="#" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
