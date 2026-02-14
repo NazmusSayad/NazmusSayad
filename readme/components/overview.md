@@ -1,16 +1,16 @@
-<div align="center" width="150">
+<!-- <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div>
+</div> -->
 
-<br />
+<!-- <br />
 
 <div align="center">
    <a href="#">
     <img src="{PROFILEVIEWS}" alt="NazmusSayad" />
    </a>
-</div>
+</div> -->
 
-<br />
+<!-- <br /> -->
 
 <p align="center">
   <a href="#">
