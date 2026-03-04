@@ -8,4 +8,4 @@
 
 - 📧 Mail: **{MAIL}**
 - 🌐 Website: **{WEBSITE}**
-- ⚡ Fun fact: **Actually, nothing. Just booring**
+- 🎯 Status: **Open to opportunities**

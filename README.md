@@ -8,7 +8,7 @@
 
 - 📧 Mail: **sayadenv@gmail.com**
 - 🌐 Website: **https://nazmussayad.com**
-- ⚡ Fun fact: **Actually, nothing. Just booring**
+- 🎯 Status: **Open to opportunities**
 
 
 <br />
