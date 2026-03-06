@@ -56,9 +56,10 @@
 
 ## Projects:
 
-- **[Maileditor](https://maileditor.net)** - Web application to edit your emails
-- **[UiGraph](https://uigraph.app)** - Visual diagrams and system mapping tool
-- **[OiPer](https://www.oiper.com)** - Email builder with reusable modules and configurable presets
+- **[OiPer Desktop](https://desktop.oiper.com)** - Write with your voice, blazing fast and locally
+- **[Maileditor](https://maileditor.net)** - Email Template Editor for marketers and developers
+- **[UiGraph](https://uigraph.app)** - Software architecture and design management system
+- **[OiPer Email](https://www.oiper.com)** - Email builder with reusable modules and configurable presets
 - **[Salah Time](https://namaz.vercel.app)** - Get the accurate time for salah
 - **[Todoi](https://todoi.vercel.app)** - Task management application for personal and teams
 - **[Mini Crypt](https://mini-crypt.vercel.app/baby)** - Toy hashing algorithm to hash your message

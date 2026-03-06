@@ -9,17 +9,22 @@ const getList = (...items) => {
 module.exports = {
   projectList: getList(
     [
+      'OiPer Desktop',
+      'https://desktop.oiper.com',
+      'Write with your voice, blazing fast and locally',
+    ],
+    [
       'Maileditor',
       'https://maileditor.net',
-      'Web application to edit your emails',
+      'Email Template Editor for marketers and developers',
     ],
     [
       'UiGraph',
       'https://uigraph.app',
-      'Visual diagrams and system mapping tool',
+      'Software architecture and design management system',
     ],
     [
-      'OiPer',
+      'OiPer Email',
       'https://www.oiper.com',
       'Email builder with reusable modules and configurable presets',
     ],
@@ -107,6 +112,6 @@ module.exports = {
       'rype',
       'https://www.npmjs.com/package/rype',
       'Runtime type check in JS (deprecated)',
-    ]
+    ],
   ),
 }
