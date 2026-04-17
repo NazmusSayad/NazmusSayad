@@ -8,16 +8,16 @@
 >
   <style>
     .text {
-      font-size: 40px;
-      font-weight: 700;
-      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
     }
     .desc {
-      font-size: 25px;
-      font-weight: 500;
-      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
     }
   </style>
   <g transform="translate(427, 145) scale(1, 1) translate(-427, -145)">
@@ -67,6 +67,6 @@
     class="desc"
     style="fill: #c9d1d9"
   >
-    a little fullStack web developer.
+    A passionate software engineer focused on web
   </text>
 </svg>
