@@ -1,34 +1,34 @@
 <div>
   <a href="#">
-    <img width="100%" src="/assets/header-banner.svg"/>
+    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/master/assets/header-banner.svg"/>
   </a>
 </div>
 
 - 📧 Mail: **sayadenv@gmail.com**
-- 🌐 Website: **https://nazmussayad.com**
+- 🌐 Website: [**nazmussayad.com**](https://www.nazmussayad.com)
 - 🎯 Status: **Open to opportunities**
 
 <br />
 
 ## Skills
 
-#### Languages
+**Languages**
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,golang,python,rust,bash)
 
-#### Frontend
+**Frontend**
 
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,nextjs,react,reactquery,reactrouter,zustand,redux,svelte,vuejs,framer,vite)
 
-#### Backend
+**Backend**
 
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,nestjs,graphql,postgresql,mongodb,prisma,drizzle,firebase,supabase,laravel)
 
-#### Mobile And Desktop
+**Mobile And Desktop**
 
 ![Mobile And Desktop](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux)
 
-#### Others
+**Others**
 
 ![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vitest,aws,chatgpt,claude,huggingface)
 
@@ -66,20 +66,6 @@
 
 <br />
 
-<!-- <div align="center" width="150">
-  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div> -->
-
-<!-- <br />
-
-<div align="center">
-   <a href="#">
-    <img src="https://visitcount.itsvg.in/api?id=NazmusSayad&label=Profile%20Views&color=12&icon=3&pretty=true" alt="NazmusSayad" />
-   </a>
-</div> -->
-
-<!-- <br /> -->
-
 <p align="center">
   <a href="#">
     <img
@@ -99,8 +85,11 @@
   </a>
 </p>
 
+<br />
+
 #
 
+<br />
 <br />
 
 <p align="center">
@@ -109,10 +98,8 @@
   </a>
 </p>
 
-<br/>
-
 <div>
   <a href="#">
-    <img width="100%" src="/assets/header-banner.svg"/>
+    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/master/assets/footer-banner.svg"/>
   </a>
 </div>
