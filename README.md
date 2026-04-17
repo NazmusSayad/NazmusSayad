@@ -18,11 +18,11 @@
 
 #### Frontend
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,nextjs,react,reactquery,reactrouter,zustand,redux,svelte,vuejs,framer)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,react,nextjs,reactquery,framer,zustand,vuejs,svelte)
 
 #### Backend
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,graphql,nestjs,postgresql,mongodb,prisma,drizzle,firebase,supabase)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,graphql,nestjs,postgresql,mongodb,prisma,drizzle,supabase)
 
 #### Mobile, Desktop & Services
 
