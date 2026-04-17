@@ -38,11 +38,11 @@
 
 ## Projects
 
-- [OiPer Desktop](https://desktop.oiper.com) - Write with your voice, blazing fast and local-first
-- [OiPer Email](https://email.oiper.com) - Email builder with reusable modules and configurable presets
-- [Maileditor](https://maileditor.net) - Email template editor for marketers and developers
-- [UiGraph](https://uigraph.app) - Software architecture and design management system
-- [Wakapi](https://github.com/muety/wakapi) - Open-source time tracking for programmers (contributor)
+- 🎙️ [OiPer Desktop](https://desktop.oiper.com) - Write with your voice, blazing fast and local-first
+- 📧 [OiPer Email](https://email.oiper.com) - Email builder with reusable modules and configurable presets
+- 📧 [Maileditor](https://maileditor.net) - Email template editor for marketers and developers
+- 📊 [UiGraph](https://uigraph.app) - Software architecture and design management system
+- 🕒 [Wakapi](https://github.com/muety/wakapi) - Open-source time tracking for programmers (contributor)
 - [CSS Wrapper](https://wrapper.sayad.dev) - Visual generator for CSS utility wrappers
 - [Todoi](https://todoi.vercel.app) - Task management for personal and team workflows
 - [Salah Time](https://prayer.sayad.dev) - Get accurate prayer times instantly
