@@ -24,13 +24,13 @@
 
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,nestjs,graphql,postgresql,mongodb,prisma,drizzle,firebase,supabase,laravel)
 
-#### Mobile And Desktop
+#### Mobile, Desktop & Services
 
-![Mobile And Desktop](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux)
+![Mobile, Desktop & Services](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux,vercel,aws,huggingface,cloudflare,stripe)
 
 #### Others
 
-![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vitest,aws,chatgpt,claude,huggingface)
+![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vitest,claude,chatgpt)
 
 <br />
 
