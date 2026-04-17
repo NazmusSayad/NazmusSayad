@@ -18,11 +18,11 @@
 
 #### Frontend
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,nextjs,react,reactquery,reactrouter,zustand,redux,svelte,vuejs,framer,vite)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,nextjs,react,reactquery,reactrouter,zustand,redux,svelte,vuejs,framer)
 
 #### Backend
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,nestjs,graphql,postgresql,mongodb,prisma,drizzle,firebase,supabase,laravel)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,nestjs,graphql,postgresql,mongodb,prisma,drizzle,firebase,supabase)
 
 #### Mobile, Desktop & Services
 
@@ -30,7 +30,7 @@
 
 #### Others
 
-![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vitest,claude,chatgpt)
+![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vite,vitest,claude,chatgpt)
 
 <br />
 
