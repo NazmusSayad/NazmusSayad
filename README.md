@@ -38,22 +38,22 @@
 
 ## Projects
 
-- 🎙️ [OiPer Desktop](https://desktop.oiper.com) - Write with your voice, blazing fast and local-first
-- 📧 [OiPer Email](https://email.oiper.com) - Email builder with reusable modules and configurable presets
-- 📧 [Maileditor](https://maileditor.net) - Email template editor for marketers and developers
-- 📊 [UiGraph](https://uigraph.app) - Software architecture and design management system
-- 🕒 [Wakapi](https://github.com/muety/wakapi) - Open-source time tracking for programmers (contributor)
-- [CSS Wrapper](https://wrapper.sayad.dev) - Visual generator for CSS utility wrappers
-- [Todoi](https://todoi.vercel.app) - Task management for personal and team workflows
-- [Salah Time](https://prayer.sayad.dev) - Get accurate prayer times instantly
-- [Mini Crypt](https://crypt.sayad.dev/baby) - Toy hashing algorithm playground
-- [noarg](https://www.npmjs.com/package/noarg) - Parse CLI args with strong type support
-- [netserv](https://www.npmjs.com/package/netserv) - Serve files over your local network
-- [uni-run](https://www.npmjs.com/package/uni-run) - Run many kinds of code from one CLI
-- [code-info](https://www.npmjs.com/package/code-info) - Scan your codebase and get quick project stats
-- [daily-code](https://www.npmjs.com/package/daily-code) - Reusable everyday utility helpers
-- [One Time Jwt](https://www.npmjs.com/package/one-time-jwt) - One-time-use JWT token utilities
-- [Chrome Tab Mute](https://chromewebstore.google.com/detail/jookegifmgjobinhjncmbjamaeldmabm) - Chrome extension to mute browser tabs
+- 🎙️ [**OiPer Desktop**](https://desktop.oiper.com) - Write with your voice, blazing fast and local-first
+- 📧 [**OiPer Email**](https://email.oiper.com) - Email builder with reusable modules and configurable presets
+- 📧 [**Maileditor**](https://maileditor.net) - Email template editor for marketers and developers
+- 📊 [**UiGraph**](https://uigraph.app) - Software architecture and design management system
+- 🕒 [**Wakapi**](https://github.com/muety/wakapi) - Open-source time tracking for programmers (contributor)
+- 🌐 [**CSS Wrapper**](https://wrapper.sayad.dev) - Visual generator for CSS utility wrappers
+- 📋 [**Todoi**](https://todoi.vercel.app) - Task management for personal and team workflows
+- 🕒 [**Salah Time**](https://prayer.sayad.dev) - Get accurate prayer times instantly
+- 🔐 [**Mini Crypt**](https://crypt.sayad.dev/baby) - Toy hashing algorithm playground
+- 🧩 [**noarg**](https://www.npmjs.com/package/noarg) - Parse CLI args with strong type support
+- 🌐 [**netserv**](https://www.npmjs.com/package/netserv) - Serve files over your local network
+- 🚀 [**uni-run**](https://www.npmjs.com/package/uni-run) - Run many kinds of code from one CLI
+- 🔍 [**code-info**](https://www.npmjs.com/package/code-info) - Scan your codebase and get quick project stats
+- 🕒 [**daily-code**](https://www.npmjs.com/package/daily-code) - Reusable everyday utility helpers
+- 🕒 [**One Time Jwt**](https://www.npmjs.com/package/one-time-jwt) - One-time-use JWT token utilities
+- 🌐 [**Chrome Tab Mute**](https://chromewebstore.google.com/detail/jookegifmgjobinhjncmbjamaeldmabm) - Chrome extension to mute browser tabs
 
 ### Legacy Work
 
