@@ -12,43 +12,27 @@
 
 <br />
 
-## Stack:
+## Skills
 
-<!-- <img src="/assets/stack-js.gif"/> -->
+### Languages
 
-<p><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://tanstack.com/images/logos/logo-color-100.png" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Stack" width="40" height="40"/>
-</a></p>
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,golang,python,rust,bash)
+
+### Frontend
+
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,nextjs,react,reactquery,reactrouter,zustand,redux,svelte,vuejs,framer,vite)
+
+### Backend
+
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,nestjs,graphql,postgresql,mongodb,prisma,drizzle,firebase,supabase,laravel)
+
+### Mobile And Desktop
+
+![Mobile And Desktop](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux)
+
+### Others
+
+![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vitest,aws,chatgpt,claude,huggingface)
 
 <br />
 
@@ -62,7 +46,6 @@
 - **[Todoi](https://todoi.vercel.app)** - Task management application for personal and teams
 - **[Mini Crypt](https://mini-crypt.vercel.app/baby)** - Toy hashing algorithm to hash your message
 - **[Ai Tic Tac Toe](https://ai-tictactoe.vercel.app)** - Tic tac toe with AI opponent
-- **[npmize](https://www.npmjs.com/package/npmize)** - Create npm packages with ease
 - **[noarg](https://www.npmjs.com/package/noarg)** - Parse your arg with excellent type support
 - **[netserv](https://www.npmjs.com/package/netserv)** - Serve your files over the local network
 - **[tailwind-variant-group](https://www.npmjs.com/package/tailwind-variant-group)** - Use tailwind css like never before
