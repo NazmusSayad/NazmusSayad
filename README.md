@@ -26,7 +26,7 @@
 
 #### Mobile, Desktop & Services
 
-![Mobile, Desktop & Services](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux,aws,huggingface,cloudflare,stripe)
+![Mobile, Desktop & Services](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux,huggingface,aws,cloudflare,stripe)
 
 #### AI & Others
 
