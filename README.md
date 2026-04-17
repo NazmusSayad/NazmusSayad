@@ -60,9 +60,8 @@
 - [auto-fold](https://marketplace.visualstudio.com/items?itemName=NazmusSayad.auto-fold) - VS Code extension for automatic folding
 - [rype](https://www.npmjs.com/package/rype) - Runtime type checking for JavaScript (deprecated)
 
-<br />
-<br />
-<hr/>
+## ‎
+
 <br />
 
 <p align="center">
@@ -84,8 +83,9 @@
   </a>
 </p>
 
-<br />
-<hr/>
+
+# ‎
+
 <br />
 <br />
 
