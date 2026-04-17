@@ -14,23 +14,23 @@
 
 ## Skills
 
-### Languages
+#### Languages
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,golang,python,rust,bash)
 
-### Frontend
+#### Frontend
 
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,nextjs,react,reactquery,reactrouter,zustand,redux,svelte,vuejs,framer,vite)
 
-### Backend
+#### Backend
 
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,nestjs,graphql,postgresql,mongodb,prisma,drizzle,firebase,supabase,laravel)
 
-### Mobile And Desktop
+#### Mobile And Desktop
 
 ![Mobile And Desktop](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux)
 
-### Others
+#### Others
 
 ![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vitest,aws,chatgpt,claude,huggingface)
 
