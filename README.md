@@ -57,7 +57,7 @@
 
 ### Legacy Work
 
-- [Ai Tic Tac Toe](https://ai-tictactoe.vercel.app) - Tic-tac-toe with an AI opponent
+- [Tic Tac Toe](http://ttt.sayad.dev) - Tic-tac-toe with an unbeatable algorithm
 - [auto-fold](https://marketplace.visualstudio.com/items?itemName=NazmusSayad.auto-fold) - VS Code extension for automatic folding
 - [tailwind-variant-group](https://www.npmjs.com/package/tailwind-variant-group) - Compose Tailwind variants with cleaner syntax
 - [rype](https://www.npmjs.com/package/rype) - Runtime type checking for JavaScript (deprecated)
