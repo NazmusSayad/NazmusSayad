@@ -4,7 +4,6 @@
   </a>
 </div>
 
-
 - 📧 Mail: **sayadenv@gmail.com**
 - 🌐 Website: **https://nazmussayad.com**
 - 🎯 Status: **Open to opportunities**
@@ -111,3 +110,9 @@
 </p>
 
 <br/>
+
+<div>
+  <a href="#">
+    <img width="100%" src="/assets/header-banner.svg"/>
+  </a>
+</div>
