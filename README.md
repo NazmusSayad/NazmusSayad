@@ -24,9 +24,9 @@
 
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,graphql,nestjs,postgresql,mongodb,prisma,drizzle,supabase)
 
-#### Mobile, Desktop & Services
+#### Mobile, Desktop & Cloud
 
-![Mobile, Desktop & Services](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux,huggingface,aws,cloudflare,stripe)
+![Mobile, Desktop & Cloud](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux,huggingface,aws,cloudflare,stripe)
 
 #### AI & Others
 
