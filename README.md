@@ -22,7 +22,7 @@
 
 #### Backend
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,nestjs,graphql,postgresql,mongodb,prisma,drizzle,firebase,supabase)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,graphql,nestjs,postgresql,mongodb,prisma,drizzle,firebase,supabase)
 
 #### Mobile, Desktop & Services
 
