@@ -1,6 +1,6 @@
 <div>
   <a href="#">
-    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/master/assets/header-banner.svg"/>
+    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/main/assets/header-banner.svg"/>
   </a>
 </div>
 
@@ -97,6 +97,6 @@
 
 <div>
   <a href="#">
-    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/master/assets/footer-banner.svg"/>
+    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/main/assets/footer-banner.svg"/>
   </a>
 </div>
