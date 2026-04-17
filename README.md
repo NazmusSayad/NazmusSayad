@@ -51,6 +51,12 @@
 - 🔍 [**code-info**](https://www.npmjs.com/package/code-info) - Scan your codebase and get quick project stats
 - 📚 [**daily-code**](https://www.npmjs.com/package/daily-code) - Reusable everyday utility helpers
 - 🔐 [**One Time Jwt**](https://www.npmjs.com/package/one-time-jwt) - One-time-use JWT token utilities
+- 🔐 [**KeyVoid**](https://github.com/SayadBot/keyvoid) - End-to-end encrypted secret vault
+- 🐚 [**shaka**](https://github.com/NazmusSayad/shaka) - One config for shell shortcuts
+- 🧾 [**GitYo**](https://github.com/NazmusSayad/gityo) - Faster git commit workflow CLI
+- ⚡ [**rmf**](https://github.com/SayadBot/rmf) - Fast parallel recursive delete tool
+- 🎨 [**butcss**](https://github.com/SayadBot/butcss) - Backend framework with CSS syntax
+- 📈 [**openusage**](https://github.com/SayadBot/openusage) - OpenCode usage and cost analyzer
 - 🔇 [**Chrome Tab Mute**](https://chromewebstore.google.com/detail/jookegifmgjobinhjncmbjamaeldmabm) - Chrome extension to mute browser tabs
 
 ### Legacy Work
