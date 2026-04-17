@@ -28,7 +28,7 @@
 
 ![Mobile, Desktop & Services](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter,androidstudio,electron,tauri,linux,aws,huggingface,cloudflare,stripe)
 
-#### Others
+#### AI & Others
 
 ![Others](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,postman,rollupjs,vite,vitest,claude,chatgpt)
 
@@ -82,7 +82,6 @@
     <img align="center" src="https://github.com/NazmusSayad/Git-Stats/raw/master/generated_images/languagesDarkMode.svg" />
   </a>
 </p>
-
 
 # ‎
 
