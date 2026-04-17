@@ -14,7 +14,7 @@
 
 #### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,golang,python,rust,bash)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,golang,python,dart,rust,bash)
 
 #### Frontend
 
