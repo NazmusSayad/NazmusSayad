@@ -10,7 +10,6 @@
 - 🌐 Website: **https://nazmussayad.com**
 - 🎯 Status: **Open to opportunities**
 
-
 <br />
 
 ## Stack:
@@ -51,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Stack" width="40" height="40"/>
 </a></p>
 
-
 <br />
 
 ## Projects:
@@ -77,7 +75,6 @@
 - **[chrome-tab-mute](https://chromewebstore.google.com/detail/jookegifmgjobinhjncmbjamaeldmabm)** - Chrome extension to mute browser tabs
 - **[Wakapi](https://wakapi.dev)** - Time tracking for programmers (contributor)
 - **[rype](https://www.npmjs.com/package/rype)** - Runtime type check in JS (deprecated)
-
 
 <br />
 
@@ -117,7 +114,6 @@
     <img align="center" src="https://github.com/NazmusSayad/Git-Stats/raw/master/generated_images/languagesDarkMode.svg" />
   </a>
 </p>
-
 
 #
 

@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "build": "node ./readme",
-    "dev": "node --watch ./readme"
-  }
-}
