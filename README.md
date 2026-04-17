@@ -61,9 +61,8 @@
 - [rype](https://www.npmjs.com/package/rype) - Runtime type checking for JavaScript (deprecated)
 
 <br />
-
-##
-
+<br />
+<hr/>
 <br />
 
 <p align="center">
@@ -86,9 +85,7 @@
 </p>
 
 <br />
-
-#
-
+<hr/>
 <br />
 <br />
 
