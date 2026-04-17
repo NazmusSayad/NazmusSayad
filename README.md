@@ -4,7 +4,6 @@
   </a>
 </div>
 
-<br />
 
 - 📧 Mail: **sayadenv@gmail.com**
 - 🌐 Website: **https://nazmussayad.com**
