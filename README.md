@@ -18,7 +18,7 @@
 
 #### Frontend
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,react,nextjs,reactquery,framer,zustand,vuejs,svelte)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,react,nextjs,reactquery,zustand,framer,vuejs,svelte)
 
 #### Backend
 
