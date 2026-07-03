@@ -37,7 +37,6 @@
 ## Projects
 
 - 🎙️ [**OiPer Desktop**](https://oiper.com) - Write with your voice, blazing fast and local-first
-- 📧 [**OiPer Email**](https://email.oiper.com) - Email builder with reusable modules and configurable presets
 - 📧 [**Maileditor**](https://maileditor.net) - Email template editor for marketers and developers
 - 📊 [**UiGraph**](https://uigraph.app) - Software architecture and design management system
 - 🕒 [**Wakapi**](https://github.com/muety/wakapi) - Open-source time tracking for programmers (contributor)
@@ -45,7 +44,6 @@
 - 📋 [**Todoi**](https://todoi.vercel.app) - Task management for personal and team workflows
 - 🕌 [**Salah Time**](https://prayer.sayad.dev) - Get accurate prayer times instantly
 - 🔐 [**Mini Crypt**](https://crypt.sayad.dev/baby) - Toy hashing algorithm playground
-- 📚 [**noarg**](https://www.npmjs.com/package/noarg) - Parse CLI args with strong type support
 - 🌐 [**netserv**](https://www.npmjs.com/package/netserv) - Serve files over your local network
 - 🚀 [**uni-run**](https://www.npmjs.com/package/uni-run) - Run many kinds of code from one CLI
 - 🔍 [**code-info**](https://www.npmjs.com/package/code-info) - Scan your codebase and get quick project stats
@@ -54,14 +52,16 @@
 - 🔐 [**KeyVoid**](https://github.com/SayadBot/keyvoid) - End-to-end encrypted secret vault
 - 🐚 [**shaka**](https://github.com/NazmusSayad/shaka) - One config for shell shortcuts
 - 🧾 [**GitYo**](https://github.com/NazmusSayad/gityo) - Faster git commit workflow CLI
-- ⚡ [**rmf**](https://github.com/SayadBot/rmf) - Fast parallel recursive delete tool
 - 🎨 [**butcss**](https://github.com/SayadBot/butcss) - Backend framework with CSS syntax
-- 📈 [**openusage**](https://github.com/SayadBot/openusage) - OpenCode usage and cost analyzer
+- 📈 [**mytokens**](https://github.com/NazmusSayad/mytokens) - OpenCode usage and cost analyzer
 - 🔇 [**Chrome Tab Mute**](https://chromewebstore.google.com/detail/jookegifmgjobinhjncmbjamaeldmabm) - Chrome extension to mute browser tabs
 
 ### Legacy Work
 
+- [**rmf**](https://github.com/SayadBot/rmf) - Fast parallel recursive delete tool
 - [Tic Tac Toe](http://ttt.sayad.dev) - Tic-tac-toe against an unbeatable algorithm
+- [**noarg**](https://www.npmjs.com/package/noarg) - Parse CLI args with strong type support
+- [**OiPer Email**](https://email.oiper.com) - Email builder with reusable modules and configurable presets
 - [tailwind-variant-group](https://www.npmjs.com/package/tailwind-variant-group) - Compose Tailwind variants with cleaner syntax
 - [auto-fold](https://marketplace.visualstudio.com/items?itemName=NazmusSayad.auto-fold) - VS Code extension for automatic folding
 - [rype](https://www.npmjs.com/package/rype) - Runtime type checking for JavaScript (deprecated)
