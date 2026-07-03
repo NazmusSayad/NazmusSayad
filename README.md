@@ -36,7 +36,7 @@
 
 ## Projects
 
-- 🎙️ [**OiPer Desktop**](https://desktop.oiper.com) - Write with your voice, blazing fast and local-first
+- 🎙️ [**OiPer Desktop**](https://oiper.com) - Write with your voice, blazing fast and local-first
 - 📧 [**OiPer Email**](https://email.oiper.com) - Email builder with reusable modules and configurable presets
 - 📧 [**Maileditor**](https://maileditor.net) - Email template editor for marketers and developers
 - 📊 [**UiGraph**](https://uigraph.app) - Software architecture and design management system
