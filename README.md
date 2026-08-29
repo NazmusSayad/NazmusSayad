@@ -6,7 +6,6 @@
 
 - 📧 Mail: **sayadenv@gmail.com**
 - 🌐 Website: [**nazmussayad.com**](https://www.nazmussayad.com)
-- 🎯 Status: **Open to opportunities**
 
 <br />
 
