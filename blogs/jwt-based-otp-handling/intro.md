@@ -1,0 +1,1 @@
+Securing user registration and password resets is essential for modern web applications. JWT-based OTP authentication offers a secure, stateless way to verify users without storing OTPs, using dynamic secrets for JWT signing to simplify the process while maintaining strong security.

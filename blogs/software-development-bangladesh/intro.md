@@ -1,0 +1,1 @@
+Software development in Bangladesh feels stalled. Pay remains low, engineering practices are inconsistent, and meaningful open-source contributions are rare. The result is an ecosystem that struggles to grow despite its talent.
